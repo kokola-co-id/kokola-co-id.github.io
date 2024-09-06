@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://kokola-co-id.github.io" rel="noopener">
- <img height=300px src="https://app.kokola.co.id/kokola-50th/assets/background/logo.png" alt="kokola"></a>
+    <img height=300px src="https://app.kokola.co.id/kokola-50th/assets/background/logo.png" alt="kokola">
   </a>
 </p>
 
