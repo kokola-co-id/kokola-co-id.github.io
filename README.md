@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://kokola-co-id.github.io" rel="noopener">
-  [[https://github.com/kokola-co-id/kokola-co-id.github.io/blob/master/assets/kokola.png|alt=kokola]]
+ <img height=300px src="https://app.kokola.co.id/kokola-50th/assets/background/logo.png" alt="kokola"></a>
   </a>
 </p>
 
-<h3 align="center">KOKOLA EKSIS</h3>
+<h2 align="center">KOKOLA DevOps</h2>
 
 <div align="center">
 
@@ -23,12 +23,11 @@ Visit Site [kokola-co-id.github.io](https://kokola-co-id.github.io/)
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@setiyoaji](https://github.com/setioaji) - Idea & Initial work
+- [@setioaji](https://github.com/setioaji) - Idea & Initial work for DevOps
 
-See also the list of [contributors](https://github.com/kokola-co-id) who participated in this project.
+## 🎉 Fix Problems <a name = "acknowledgement"></a>
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
 - Inspiration
-- References
+- Gruping code
+- IaC
+- CI/CD
