@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://kokola-co-id.github.io" rel="noopener">
-  <img width=200px height=200px src="https://app.kokola.co.id/awal/kkl.png" alt="kokola"></a>
+  [[https://github.com/kokola-co-id/kokola-co-id.github.io/blob/master/assets/kokola.png|alt=kokola]]
+  </a>
 </p>
 
 <h3 align="center">KOKOLA EKSIS</h3>
@@ -22,7 +23,7 @@ Visit Site [kokola-co-id.github.io](https://kokola-co-id.github.io/)
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@setiyoaji](https://github.com/setiyaaji) - Idea & Initial work
+- [@setiyoaji](https://github.com/setioaji) - Idea & Initial work
 
 See also the list of [contributors](https://github.com/kokola-co-id) who participated in this project.
 
